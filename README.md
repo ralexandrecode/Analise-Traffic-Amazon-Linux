@@ -167,7 +167,7 @@ sudo python3 traffic_capture.py -l
 
 Os logs detalhados são salvos em `/var/log/traffic_capture.log` (se executado como root).
 
-## 🤝 Contribuindo
+## 🤝 Como Contribuir
 
 1. Faça um fork do projeto
 2. Crie uma branch para sua feature (`git checkout -b feature/nova-funcionalidade`)
@@ -184,17 +184,11 @@ Os logs detalhados são salvos em `/var/log/traffic_capture.log` (se executado c
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob OpenSource
 
 ## 👥 Autores
 
-- **Seu Nome** - *Desenvolvimento inicial* - [seu-usuario](https://github.com/seu-usuario)
-
-## 📞 Suporte
-
-- 📧 Email: seu-email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/seu-usuario/traffic-capture-tools/issues)
-- 📖 Wiki: [GitHub Wiki](https://github.com/seu-usuario/traffic-capture-tools/wiki)
+- **Ricardo Alexandre + Claude4** - *Desenvolvimento inicial*
 
 ## 🔄 Changelog
 
@@ -210,6 +204,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 🙏 Agradecimentos
 
-- Equipe do [Wireshark](https://www.wireshark.org/) pelo TShark
+- Equipe do [Wireshark](https://www.wireshark.org/) pelo TShark CLI
 - Comunidade Python
 - Documentação do Amazon Linux
